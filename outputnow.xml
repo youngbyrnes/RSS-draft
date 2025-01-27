@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <ns0:link rel="self" href="https://youngbyrnes.github.io/RSS-draft/rss.xml" type="application/rss+xml" /><title>My RSS Feed</title>
+    <ns0:link rel="self" href="https://youngbyrnes.github.io/RSS-draft/rss.xml" type="application/rss+xml" /><title>PAL Premium</title>
     <link>https://youngbyrnes.github.io</link>
-    <description>An RSS feed generated from scraped data.</description>
+    <description>PAL Premium</description>
     <language>en-us</language>
     <item>
       <title>#267 - Our Worms Were Up (Patreon)</title>
