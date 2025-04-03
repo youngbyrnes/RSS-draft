@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Favorite Songs - YouTube</title>
+		<description>This playlist was created by https://www.tunemymusic.com that lets you transfer your playlist to YouTubeMediaConnect from any music platform such as Spotify, YouTube, Apple Music etc. - YouTube</description>
+		<pubDate>Wed, 02 Apr 2025 20:09:06 +0000</pubDate>
+		<link>https://www.youtube.com/playlist?list=PLchDT5p1fzyiZEJo2GxGTQoJb8JgW2ov4</link>
+		<atom:link href="http://fetchrss.com/rss/67ed9c2d0b8ee1832500e8d367ed9be7444832e8fb0b4e22.xml" rel="self" type="application/rss+xml" />
+		<generator>https://fetchrss.com</generator>
+		<image>
+			<link>https://www.youtube.com/playlist?list=PLchDT5p1fzyiZEJo2GxGTQoJb8JgW2ov4</link>
+			<url>https://res.cloudinary.com/dh2eofcns/provider/youtube.png</url>
+			<title>Favorite Songs - YouTube</title>
+		</image>
+
+		<item>
+			<title>Holy Fuck (You Look Like A Duck)</title>
+			<link>https://www.youtube.com/watch?v=bPqrXbZKyyM</link>
+			<description><![CDATA[<iframe id="player" width="640" height="360" src="https://www.youtube.com/embed/bPqrXbZKyyM" allowFullScreen="allowfullscreen"></iframe><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]></description>
+			<dc:creator>Feestteam - Topic</dc:creator>
+			<pubDate>Wed, 02 Apr 2025 20:09:06 +0000</pubDate>
+			<media:content url="https://i.ytimg.com/vi/bPqrXbZKyyM/sddefault.jpg" medium="image" width="640" height="480" />
+			<guid isPermaLink="false">bPqrXbZKyyM</guid>
+		</item>
+		<item>
+			<title>Walkin' My Baby Back Home (Demo)</title>
+			<link>https://www.youtube.com/watch?v=gb0UsuUiQLA</link>
+			<description><![CDATA[<iframe id="player" width="640" height="360" src="https://www.youtube.com/embed/gb0UsuUiQLA" allowFullScreen="allowfullscreen"></iframe><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]></description>
+			<dc:creator>Norah Jones - Topic</dc:creator>
+			<pubDate>Wed, 02 Apr 2025 20:09:06 +0000</pubDate>
+			<media:content url="https://i.ytimg.com/vi/gb0UsuUiQLA/sddefault.jpg" medium="image" width="640" height="480" />
+			<guid isPermaLink="false">gb0UsuUiQLA</guid>
+		</item>
+		<item>
+			<title>I'll Be Fine</title>
+			<link>https://www.youtube.com/watch?v=XQXBMOe7h8w</link>
+			<description><![CDATA[<iframe id="player" width="640" height="360" src="https://www.youtube.com/embed/XQXBMOe7h8w" allowFullScreen="allowfullscreen"></iframe><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]></description>
+			<dc:creator>Smithereens - Topic</dc:creator>
+			<pubDate>Wed, 02 Apr 2025 20:09:06 +0000</pubDate>
+			<media:content url="https://i.ytimg.com/vi/XQXBMOe7h8w/sddefault.jpg" medium="image" width="640" height="480" />
+			<guid isPermaLink="false">XQXBMOe7h8w</guid>
+		</item>
+		<item>
+			<title>Niech wszystko splonie</title>
+			<link>https://www.youtube.com/watch?v=StOZi-v0osU</link>
+			<description><![CDATA[<iframe id="player" width="640" height="360" src="https://www.youtube.com/embed/StOZi-v0osU" allowFullScreen="allowfullscreen"></iframe><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]></description>
+			<dc:creator>Cool Kids of Death - Topic</dc:creator>
+			<pubDate>Wed, 02 Apr 2025 20:09:05 +0000</pubDate>
+			<media:content url="https://i.ytimg.com/vi/StOZi-v0osU/sddefault.jpg" medium="image" width="640" height="480" />
+			<guid isPermaLink="false">StOZi-v0osU</guid>
+		</item>
+		<item>
+			<title>Young Girl</title>
+			<link>https://www.youtube.com/watch?v=HquTp5hbYek</link>
+			<description><![CDATA[<iframe id="player" width="640" height="360" src="https://www.youtube.com/embed/HquTp5hbYek" allowFullScreen="allowfullscreen"></iframe><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]></description>
+			<dc:creator>Frank Lynch - Topic</dc:creator>
+			<pubDate>Wed, 02 Apr 2025 20:09:05 +0000</pubDate>
+			<media:content url="https://i.ytimg.com/vi/HquTp5hbYek/sddefault.jpg" medium="image" width="640" height="480" />
+			<guid isPermaLink="false">HquTp5hbYek</guid>
+		</item>
+
+	</channel>
+</rss>
