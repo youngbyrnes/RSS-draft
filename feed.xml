@@ -830,14 +830,7 @@
         <guid>https://raw.githubusercontent.com/youngbyrnes/Music-RSS/main/Lay%20Down.mp3</guid>
         <enclosure url="https://raw.githubusercontent.com/youngbyrnes/Music-RSS/main/Lay%20Down.mp3" length="3648620" type="audio/mpeg" />
         <pubDate>Wed, 16 Apr 2025 15:01:42 +0100</pubDate>
-    </item>
-    <item>
-        <title>Layla (Acoustic Live).mp3</title>
-        <link>https://raw.githubusercontent.com/youngbyrnes/Music-RSS/main/Layla%20%28Acoustic%20Live%29.mp3</link>
-        <guid>https://raw.githubusercontent.com/youngbyrnes/Music-RSS/main/Layla%20%28Acoustic%20Live%29.mp3</guid>
-        <enclosure url="https://raw.githubusercontent.com/youngbyrnes/Music-RSS/main/Layla%20%28Acoustic%20Live%29.mp3" length="4625132" type="audio/mpeg" />
-        <pubDate>Wed, 16 Apr 2025 15:01:42 +0100</pubDate>
-    </item>
+    </item> 
     <item>
         <title>Lightning Strike.mp3</title>
         <link>https://raw.githubusercontent.com/youngbyrnes/Music-RSS/main/Lightning%20Strike.mp3</link>
