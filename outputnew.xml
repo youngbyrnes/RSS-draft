@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <ns0:link rel="self" href="https://youngbyrnes.github.io/RSS-draft/rss.xml" type="application/rss+xml" /><title>My RSS Feed</title>
+    <ns0:link rel="self" href="https://youngbyrnes.github.io/RSS-draft/rss.xml" type="application/rss+xml" /><title>Lemonade Stand</title>
     <link>https://youngbyrnes.github.io</link>
     <description>An RSS feed generated from scraped data.</description>
     <language>en-us</language>
     <rss version="2.0">
-  <channel>
-    <title>Lemonade Stand</title>
-    <link>https://kemono.su</link>
-    <description>Automatically scraped content.</description>
     <item>
       <title>Ep. 3 Premium - This can't leave the discord [AUDIO] (Patreon)</title>
       <description>Recorded on April 25, 2025</description>
